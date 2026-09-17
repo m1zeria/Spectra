@@ -1,0 +1,46 @@
+# Ren'Py
+*.rpyc
+*.rpyb
+*.rpymc
+game/saves/
+game/cache/
+game/log.txt
+game/errors.txt
+game/traceback.txt
+game/*.rpa
+game/*.rpi
+game/bytecode.rpyb
+game/script_version.txt
+game/steam_appid.txt
+
+# Build outputs
+/dist/
+/build/
+*.zip
+*.tar.gz
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Rust
+target/
+
+# Personal / drafts
+/drafts/
+/notes/
+*.private.md
