@@ -10,10 +10,10 @@ Gears align and shift, and so do connections. The copper
 veins beneath every road flicker with ancient power.
 The electric hum that never fades was once a hymn.
 
-You wake up in this city. You do not know how you got here. 
-You do not know why the street feels familiar. You do not 
-know the name of the person who is speaking to you, or why 
-they are looking at you like they have known you for years.
+You wake up in this city. You do not know how you got here,
+or why the street feels familiar. You do not know the name 
+of the person who is speaking to you, or why they are looking
+at you like they have known you for years.
 
 You are not alone in your own mind.
 
