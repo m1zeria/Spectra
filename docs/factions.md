@@ -39,3 +39,39 @@ are killed, worked, or made examples of. Otherwise they are left alone.
 Many of the protagonist's companions are the Tuned. Maybe even they are,
 in their own way.
 
+## The Endwise
+
+The Blind One's agents. They serve an absence. They are not a faction in
+the usual sense; they are a direction. They want the extermination of
+the Seven Bands and the awakening of certain dark things.
+
+They may not know what they serve. Some of them certainly do not.
+
+## The Artificers
+
+The Artificer's Guild. Artisans, engineers, innovators. Some are hired
+by the Body. Some operate independently, for a few faithful customers.
+They work on new tech.
+
+Some of them intend to channel the gods. Some turn bad, or are turned,
+and want to exploit them. Those are subsumed by the Body, one contract
+at a time.
+
+The Artificers are the human face of the Tithing. They are the hands
+that do the work.
+
+## The Scavengers
+
+They fight anyone for what they want. They can be allied with, fought,
+or both in the same week.
+
+## The Citizens
+
+People who just live here. NThey are neither villains nor heroes. Exhausted and brainwashed. They believe
+what they have been told, mostly, but there is a small seed of distrust
+in every one of them.
+
+## The Exiles
+
+Opted out. Hermits, mages, people who live in the gaps. The ones who
+did not join anything and somehow survived.
