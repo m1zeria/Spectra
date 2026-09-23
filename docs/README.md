@@ -13,6 +13,7 @@ Docs
 - `minds.md` — the spectrum, the mc, the psychology
 - `cast.md` — companions, NPCs, background characters
 - `factions.md` — who holds power, who resists
+- `gods.md` — the seven and their story
 - `mechanics.md` — how the game plays
 - `state-model.md` — how the game stores data
 - `routes.md` — how the story branches
