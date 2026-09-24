@@ -130,20 +130,21 @@
 
 ---
 
-### N. Title
+### 6. The Emberfall Pilgrim
 
-**Name**:
+**Name**: Pyrrhus
 
-**Occupation**: 
+**Occupation**: A wandering ascetic who travels the length and breadth of Lumenspire, tending to the shrines of Pyrrhos and keeping the old traditions alive. He is the last true priest of the Ember Sovereign.
 
-**Age**:
+**Age**: Immortal, appears young.
 
-**Story**:
+**Story**: He was a young man when the gods fell, and he has spent the decades since watching the world he knew crumble into machinery and smoke. He remembers what it was like before the Body, when the gods walked the streets and the city was alive with divine presence. He remembers Pyrrhos as he was — not a fading, forgotten hearth-god, but a being of terrible and beautiful power, the first fire, the warmth that kept the world alive. He carries a shard of that old fire in his heart, a tiny ember that has never gone out, and he tends it with devotion.
 
-**Abilities**:
+**Abilities**: He can kindle fire from nothing. He can see the "warmth" in all things — the hidden embers of life that flicker even in the coldest, darkest places. He can sense the presence of the other gods, and he knows that something is very wrong with the pantheon. He does not know what, but he knows that the First Refraction was not the end of the story.
 
-**Conflict**:
+**Conflict**: He is dying. The ember in his heart is fading, and when it goes out, the last true worship of Pyrrhos will die with him. He is searching for a successor — someone to carry the ember, someone who can rekindle the old fire. He has not found them yet. He is beginning to think he never will.
 
-**Appearance**:
+**Appearance**: Patched robes of red and gold, a staff topped with a chunk of coal that glows faintly. Auburn waves and eyes that are still bright with the light of the old fire.
 
 ---
+
