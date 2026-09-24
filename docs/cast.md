@@ -32,7 +32,7 @@
 
 **Story**: They were chosen by Phaos himself, not through any grand revelation, but through a quiet moment in a dark alley when a streetlamp flickered on at exactly the right moment and saved them from something hiding in the shadows. The Lamplighter's Apprentice carries a splinter of Phaos's divine light in their chest, a warmth that never fades, and they can sense when a lamp is about to fail, when a prism is misaligned, when the light is wrong. They are being slowly groomed to become the next Lamplighter — the mortal vessel who keeps Phaos anchored to the city.
 
-**Abilities**: Can communicate with Phaos through flickering lights. Can sense the presence of the other gods' influence. Their touch can purify corrupted light. They do not cast a shadow — a detail that unnerves everyone who notices.
+**Abilities**: They can communicate with Phaos through flickering lights. They can sense the presence of the other gods' influence. Their touch can purify corrupted light. They do not cast a shadow — a detail that unnerves everyone who notices.
 
 **Conflict**: The Body wants to study them. Phaos wants to protect them. And the Lamplighter's Apprentice is beginning to realize that their god's gentle, submissive nature may be a mask for something far older and far more terrifying.
 
@@ -91,3 +91,59 @@
 **Conflict**: No one knows she is the Guild's favourite, for she erased her old identity with evidence of her discovery. If they recovered their memories, then not only would she be captured, she would be sanitised like all others that do not align with the Body's restrictive standards.
 
 **Appearance**: Lives in an RGB-blue cloak the same colour as her hair. Dark circles ring her golden eyes, and when spoken to she is endlessly wise if you look past her stutter.
+
+---
+
+### 5. The Violet Dreamer
+
+**Name**: Morphia Somneline
+
+**Occupation**: A dream-reader and psychologist who operates out of a small clinic in the shadow of the Sanitarium of Violet. She specialises in treating victims of aetheric contamination — people whose minds have been touched by the gods and left scarred.
+
+**Age**: 28
+
+**Story**: She was once a Puritan of Violet, a devout follower of Hyperiodes who believed in the purifying power of ultraviolet light. Then she was exposed to a raw, unfiltered beam of the god's essence, and instead of being purified, she was *opened*. She can now see into the dreams of others, walk through their nightmares, and touch the parts of their minds that even they cannot access. She left the cult after this experience, unable to reconcile her newfound empathy with Hyperiodes's merciless doctrine.
+
+**Abilities**: She can enter and manipulate dreams. She can see the "shadows" of a person's subconscious — the fears, desires, and memories they have buried. She can sense the presence of the gods in a person's mind, which makes her invaluable to the Body and the Tuned alike.
+
+**Conflict**: She has discovered something in the dreams of the city's inhabitants — a recurring nightmare, shared by thousands of people, of a light that consumes everything. She believes this is a prophecy of the White, the hypothetical eighth god, and she is desperately trying to find a way to prevent it. She is also being hunted by their former cult, who consider her dream-walking an abomination.
+
+**Appearance**: Short, deep violet hair. Soft violet robes and a mask of pure porcelain covering the upper half of her face. Eyes that are always slightly unfocused, as if they are looking at something just beyond the waking world.
+
+---
+
+### 6. The Prism Court's Fool
+
+**Name**: Pierrot
+
+**Occupation**: A court jester in the Prism Palace, the official entertainer of the Body's elite. He is also, secretly, one of the most dangerous people in Lumenspire.
+
+**Age**: Unknown.
+
+**Story**: He was once a member of the Tuned, a promising young revolutionary who believed in the cause. Then he was captured by the Body, tortured, and broken. He survived by making a deal — he would spy on his fellow Tuned, and in exchange, he would be allowed to live. He has been playing the double game ever since, but somewhere along the way, he stopped caring about the cause. He stopped caring about anything. He became the fool, the jester, the one who laughs at everything because if he does not laugh, he will scream.
+
+**Abilities**: None. He is a mortal, but he is a genius, a strategist, and a survivor. He knows everyone's secrets. He knows where all the bodies are buried. He has been playing both sides for so long that he has forgotten which side he is on — if he ever knew.
+
+**Conflict**: He has learned a secret that could destroy the Body, the Tuned, and the pantheon all at once. He does not know what to do with it. He is trying to decide whether to use it, sell it, or bury it. He is running out of time.
+
+**Appearance**: A patchwork costume of bright, clashing colors, a jester's hat over curly hair, a mask that covers his face, hands covered in bells and ribbons, painted eyes that are always laughing, even when he is not.
+
+---
+
+### N. Title
+
+**Name**:
+
+**Occupation**: 
+
+**Age**:
+
+**Story**:
+
+**Abilities**:
+
+**Conflict**:
+
+**Appearance**:
+
+---
