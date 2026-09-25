@@ -130,7 +130,7 @@ She is trying to find a way to stop it. She does not know how. She does not know
 
 ---
 
-# Pyrrhus — Deep Dive
+# Pyrrhus Favilla — Deep Dive
 
 ## Core Identity
 
@@ -226,7 +226,7 @@ He can also see the presence of the other gods. The embers of their divine essen
 
 Pyrrhus does not age. He has not aged since the day Pyrrhos claimed him, four centuries ago. He can be killed — he is not invulnerable — but he will not die of natural causes. He will not die of old age, or disease, or the slow decay of time. He will only die when the ember in his heart goes out, and that ember is fading.
 
-He does not know why he is immortal. He does not know if it was a gift from Pyrrhos, a curse from the First Refraction, or simply a quirk of his divine connection. He has stopped asking. He has stopped caring. Immortality is not a blessing when you have no one to share it with.
+He does not know why he is immortal. He does not know if it was a gift from Pyrrhos, a curse from the First Refraction, or simply a quirk of his divine connection. He has stopped caring. Immortality is not a blessing when you have no one to share it with.
 
 ---
 

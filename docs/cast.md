@@ -148,3 +148,76 @@
 
 ---
 
+### 8. The Body's Auditor
+
+**Name**: Drusilla Estrada
+
+**Occupation**: A senior auditor in the Body's internal affairs division. She investigates corruption, inefficiency, and disloyalty within the organization. She is ruthless, brilliant, and utterly loyal to the Body. She is also, secretly, a member of the Endwise.
+
+**Age**: 44
+
+**Story**: Drusilla was born into the Body's elite, the daughter of two senior administrators. She was raised to believe in the Body's mission, to worship efficiency, to despise weakness. She was a true believer — until she discovered the Endwise. She was recruited at twenty-five, drawn in by their promise of a world without gods, without suffering, without the endless, grinding misery of existence. She has been serving them ever since, using her position in the Body to advance their agenda, to eliminate their enemies, to prepare the way for the Blind One's arrival.
+
+**Abilities**: Drusilla has no divine powers. She does not need them. She is a master of manipulation, a genius of bureaucratic warfare, a woman who can destroy a career with a single memo. She knows every weakness in the Body's structure, every secret in its archives, every skeleton in its closets. She is one of the most dangerous people in Lumenspire, and no one knows it.
+
+**Conflict**: Drusilla has been ordered to locate the Whistleblower, Aldous Finch, and recover the ledgers he stole. She is close — closer than he knows. She is also beginning to doubt the Endwise. Not their cause — she still believes in the annihilation of the gods — but their methods. Their patience. Their willingness to sacrifice innocent lives for the sake of a future that may never come. She is starting to wonder if she is on the right side, or if there is a right side.
+
+**Appearance**: Elegant and composed, with silver-streaked black hair pulled back in a severe bun. She wears immaculate black suits and a silver pin shaped like an open eye. Her eyes are cold and calculating, always watching, always assessing. She has a small, thin smile that never reaches her eyes. She is terrifying.
+
+---
+
+### 9. The Tithing's Whistleblower
+
+**Name**: Aldous Finch
+
+**Occupation**: Former senior accountant in the Artificers' Guild, now a fugitive. He spent thirty years balancing the ledgers of the Tithing — tracking the harvest yields, the energy outputs, the slow decline of the gods' vital essence. He knows exactly how much of each god has been consumed, and exactly how much remains.
+
+**Age**: 52
+
+**Story**: Aldous was a company man. He believed in the Body, believed in progress, believed that the Tithing was a necessary sacrifice for the greater good. Then he ran the numbers. He calculated the rate of consumption, projected it forward, and realized that the gods would be completely depleted within two generations. He brought his findings to his superiors, expecting them to act. Instead, they promoted him, gave him a raise, and told him to forget what he had seen. He did not forget. He copied the ledgers, hid them in a dozen dead drops across the city, and vanished.
+
+**Abilities**: None. He is a mortal man with a head for numbers and a conscience. But he knows where the bodies are buried — metaphorically and literally. He knows which Artificers signed off on the worst atrocities. He knows which members of the Body's inner circle are embezzling from the Tithing. He knows the truth, and the truth is a weapon.
+
+**Conflict**: He is being hunted by the Hands, the Body's enforcers. He has been in hiding for six months, moving from safehouse to safehouse, never staying in one place for more than a few days. He is running out of money, running out of allies, running out of time. He is trying to find someone — anyone — who can use his information before the Body finds him.
+
+**Appearance**: A fleshy, headstrong man with ink-stained fingers and a perpetual squint. He wears a worn grey coat that was once expensive, now patched and faded. He carries a leather satchel everywhere, though it contains nothing but old receipts and half-eaten sandwiches. He can be kind one moment and calculating the next.
+
+---
+
+### 10. The Body's Surgeon
+
+**Name**: Dr.
+
+**Occupation**: A senior physician in the Body's medical division, specializing in the "rehabilitation" of individuals deemed Different. He performs the surgeries, the lobotomies, the "corrective procedures" that turn troublesome citizens into compliant workers. He is very good at his job.
+
+**Age**: 48
+
+**Story**: Vespasian did not set out to become a monster. He was a brilliant surgeon, a man who genuinely wanted to help people, a man who believed that the Body's mission of unity and efficiency was noble. Then he was assigned to the Sanatoriums, and he saw what the Body did to the Different — the Tuned, the god-touched, the disabled, the merely inconvenient. He told himself it was necessary. He told himself it was mercy. He told himself that the people he operated on were better off without their troublesome thoughts, their dangerous abilities, their inconvenient emotions. He has been telling himself this for twenty years. He is beginning to doubt.
+
+**Abilities**: A gifted surgeon with steady hands and an encyclopedic knowledge of human anatomy. He can perform complex operations in minutes, can diagnose illnesses with a glance, can keep a patient alive through procedures that should kill them. He is also, secretly, a talented pianist — he plays in the empty operating theater at night, when no one is watching, when he can pretend he is someone else.
+
+**Conflict**: He has been ordered to perform a procedure on a child — a young Tuned girl who was caught listening to the gods' language. The procedure will erase her memories, her personality, everything that makes her her. He has performed this procedure dozens of times before, but something about this child — her eyes, her voice, the way she looked at him when they brought her in — has cracked something open inside him. He is trying to find a way to save her without being caught.
+
+**Appearance**: Tall and gaunt, with silver hair and cold, precise eyes. He wears immaculate white coats and keeps his hands perfectly still. He has a small scar on his left cheek, a memento from a patient who fought back. He does not smile. He has forgotten how.
+
+---
+
+### 11. The Deadlight's Child
+
+**Name**: Echo
+
+**Occupation**: A child of the Unmade, the cult of Phtheiro. They were born in the shadow of the Deadlight, the ruined temple of the gamma god, and raised by the cult to be a vessel for Phtheiro's essence. They are sixteen years old. They have never seen the sun.
+
+**Age**: 16
+
+**Story**: Echo was not born. They were made — grown in a vat of irradiated protoplasm, incubated in the heart of the Deadlight, designed to be the perfect vessel for the god of destruction. They are not human. They are not a god. They are something in between, a creature of pure potential, a weapon waiting to be used. The Unmade believe they are the prophesied vessel, the one who will finally awaken Phtheiro and bring about the end of all things. Echo does not know what they believe. They have never been allowed to believe anything.
+
+**Abilities**: Echo can channel the destructive power of gamma radiation. They can decay organic matter with a touch, can cause metal to rust and stone to crumble, can kill a person with a single, prolonged embrace. They can also, to their own surprise, heal. They can absorb the entropy of a wounded body, taking the damage into themselves, reversing the decay. They do not know why they can do this. They do not know if it is a gift or a curse.
+
+**Conflict**: Echo has escaped the Deadlight. They do not know where they are going. They do not know who they are. They are trying to find someone — anyone — who can tell them what they are supposed to be. They have heard rumors of a dream-reader in the undercity, a woman who can enter minds and heal wounds. They are trying to find her. They are running out of time.
+
+**Appearance**: Pale and thin, with colorless hair and eyes that are a deep, unsettling violet. Their skin is covered in silver scars that glow faintly in the dark — the marks of the radiation that made them. They wear a tattered black robe, a relic of the Deadlight, and they carry nothing else. They are always alone. They have always been alone.
+
+---
+
+
