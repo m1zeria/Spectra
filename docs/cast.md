@@ -130,9 +130,9 @@
 
 ---
 
-### 6. The Emberfall Pilgrim
+### 7. The Emberfall Pilgrim
 
-**Name**: Pyrrhus
+**Name**: Pyrrhus Favilla
 
 **Occupation**: A wandering ascetic who travels the length and breadth of Lumenspire, tending to the shrines of Pyrrhos and keeping the old traditions alive. He is the last true priest of the Ember Sovereign.
 

@@ -12,6 +12,7 @@ Docs
 - `world.md` — the city, the history, the machinery
 - `minds.md` — the spectrum, the mc, the psychology
 - `cast.md` — companions, NPCs, background characters
+- `deep-dives.md` — main characters, their whole story
 - `factions.md` — who holds power, who resists
 - `gods.md` — the seven and their story
 - `mechanics.md` — how the game plays
