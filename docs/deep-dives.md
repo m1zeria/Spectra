@@ -267,3 +267,115 @@ The ember is fading. It has been fading for centuries, growing dimmer with each 
 Pyrrhus has been searching for a successor for decades. He has traveled the length and breadth of Lumenspire, visited every shrine, interviewed every candidate, tested every hopeful. He has found no one. No one who can carry the ember. No one who can bear the weight of the old fire. No one who can love the dying god the way he has loved him.
 
 He has not given up. He will never give up. He will search until the last ember fades, until the last breath leaves his body, until the last spark of warmth dies in his heart. He will search because that is what Pyrrhos would want. He will search because that is what Cassian would want. He will search because the alternative is to let the fire die, and he has spent four hundred years keeping it alive. He will not let it go out now.
+
+---
+
+# Delphine Jacquard — Deep Dive
+
+## Core Identity
+
+**Name:** Delphine Jacquard
+
+**Aliases:** Desdaemona (street name, earned for the daemons she uploads into the aetheric cables), The Ghost in the Guild (former colleagues who noticed her absence but never her presence), Dee (a nickname only one person uses, and only in private)
+
+**Age:** 18
+
+**Occupation:** Rogue Artificer, fugitive, and the most dangerous programmer in Lumenspire. She was once the youngest mind ever admitted to the Artificer's Guild's inner circles — a prodigy who could write aetheric code before she could tie her shoes, who understood the gods' language the way other children understand nursery rhymes. She was tasked with making the Tithing more efficient. She made it obsolete instead. Now she lives in the margins of the city, moving from safehouse to safehouse, encoding aetheric commands into everyday objects and uploading daemons into the cables that run beneath the streets. The Body wants her dead. The Tuned want her controlled. The Endwise want her converted. She wants to be left alone, preferably in a dark room, preferably with a keyboard, preferably forever.
+
+**Faction Alignment:** Nominally Tuned, but she has never attended a meeting, never pledged an oath, never worn a symbol. She helps them because she believes in their cause — the gods are prisoners, the Tithing is a crime, the Body is a monster — but she helps them from a distance, through dead drops and encrypted messages and daemons that do the talking for her.
+
+---
+
+## Physical Description
+
+Delphine is small and wiry, with the hunched shoulders and restless hands of someone who has spent most of her life in front of a console. She moves quickly, jerkily, like a bird that has forgotten how to fly but keeps trying anyway. Her posture is terrible. She has been told this many times. She has never corrected it.
+
+Her hair is a deep, vivid blue — the exact blue of an RGB screen at full brightness, the blue of a cathode ray tube in a dark room, the blue of a color that does not exist in nature. It is natural, or as natural as anything about her can be. Prolonged exposure to raw aetheric code has altered her biology in ways she does not fully understand. Her eyes are golden — a warm, luminous amber that glows faintly in the dark, like a cat's eyes catching candlelight. She has dark circles under them, permanent, the kind that come from years of not sleeping and years of not wanting to. When she is nervous — which is always — she blinks rapidly, a tic that makes her look like she is trying to process too much information at once. She usually is.
+
+She lives in an RGB-blue cloak the same color as her hair, a garment she made herself from salvaged aetheric fabric. It is too large for her, which is intentional. She likes to be able to disappear inside it. Beneath the cloak, she wears practical clothes — trousers, boots, a shirt with too many pockets — all of them stained with ink and solder and the faint, iridescent residue of aetheric residue. She carries a leather satchel everywhere, stuffed with tools, cables, half-finished devices, and the occasional stolen memory. She has a habit of taking things apart when she is anxious. She is always anxious. She is always taking things apart.
+
+When she speaks — which is rare — she stutters, often enough that people notice. The stutter is worse when she is nervous. She has learned to compensate by speaking in short sentences, by writing things down, by letting her daemons do the talking for her.
+
+---
+
+## Personality
+
+Delphine is, at her core, a person who has always been more comfortable with machines than with people. Machines are predictable. Machines are logical. Machines do not judge you for stuttering, do not stare at you when you walk into a room, do not ask questions about your body or your past or why you chose the name Delphine. Machines simply *are*. She has spent her entire life hiding in machines — in code, in cables, in the spaces between the aetheric signals that nobody else can see. She is a ghost in the machine, and she likes it that way.
+
+She is brilliant. Her mind works in ways that other people cannot follow, making connections that seem obvious to her and incomprehensible to everyone else. She can read the gods' language the way other people read street signs. She can see the code in the aether, the structure in the static, the logic in the chaos. She is a genius, and she knows it, and she hates it. Genius is lonely. Genius is isolating. Genius is a wall between her and everyone else, a wall she did not build and cannot tear down.
+
+She is anxious. Social situations terrify her — the eye contact, the small talk, the unspoken rules that everyone else seems to understand instinctively. She has learned to fake it, to nod and smile and make the appropriate noises, but it is exhausting. She prefers to communicate through text, through code, through daemons that can speak for her without the risk of stuttering. She has built an entire life around avoiding the things that scare her.
+
+---
+
+## Backstory
+
+### The Guild
+
+Delphine was born in the undercity, the child of two factory workers who died in a Tithing accident when she was five years old. She was taken in by the Artificer's Guild — not out of kindness, but because she showed an aptitude for mechanical work that the Guild could not ignore. She was fixing a broken aetheric relay when they found her, a scrawny five-year-old with blue hair and golden eyes, surrounded by tools that were too big for her hands, explaining to a broken machine exactly why it was not working.
+
+She was raised in the Guild's workshops, trained in the art of aetheric engineering, taught to build the machines that harvest the gods. She was not a happy child. She was not an unhappy child. She was simply *absorbed*. She spent every waking hour with the machines, with the code, with the language of the gods. She learned to read the garbled text that appeared in the sacred books. She learned to understand it. She learned to *speak* it.
+
+She was fourteen when she was admitted to the inner circles. She was the youngest mind ever to be granted that honor. She was given a project — a simple project, they said, a way to make the Tithing more efficient. She was given access to the deepest archives, the most classified documents, the secrets that the Guild had been hiding for centuries. She was given the truth.
+
+She discovered that the gods' language was not just a means of communication. It was a programming language. The gods were not just bound to the machines; they were *code*. And code can be rewritten.
+
+### The Escape
+
+She did not plan to run, or to become a fugitive. She simply found the truth, and the truth found her, and she realized that if the Guild knew what she had discovered, they would not promote her. They would *sanitize* her. They would erase her memories, her personality, everything that made her *her*. She had seen it happen to others. She had seen the empty-eyed workers who shuffled through the Guild's halls, their minds wiped clean, their potential destroyed.
+
+She ran. She gathered her tools, her notes, her most precious possessions — a battered portable console, a set of lockpicks, a half-finished daemon she had been working on — and she vanished into the undercity. She was sixteen. She has been running ever since.
+
+### The Daemons
+
+She survived by selling her skills. She could encode aetheric commands into everyday objects — a music box that could cause seizures, a telegraph key that could rewrite memories, a pocket watch that could stop a heart. She could upload daemons into the aetheric cables, programs that could spy, sabotage, or destroy. She became Desdaemona, the ghost in the cables, the most dangerous programmer in Lumenspire. She never met her clients in person. She never spoke to them directly. She communicated through dead drops, through encrypted messages, through daemons that did the talking for her.
+
+She was alone. She was afraid. She was *free*. It was the most terrifying thing that had ever happened to her.
+
+---
+
+## Abilities
+
+### Aetheric Programming
+
+Delphine's primary ability is the capacity to read, write, and manipulate the gods' language — the ancient, garbled text that appears in holy books and drives most readers mad. She can understand it instinctively, the way a native speaker understands their mother tongue. She can write it, speak it, encode it into physical objects and aetheric cables. She can program reality itself.
+
+She uses this ability to create daemons — autonomous programs that can spy, sabotage, or destroy. She can upload a daemon into any aetheric cable, any conductive material, any device that runs on the gods' power. She can make a music box that causes seizures, a telegraph key that rewrites memories, a pocket watch that stops a heart. She can make a daemon that will follow a target for weeks, recording their every move, reporting back to her through encrypted channels. She is the most dangerous programmer in Lumenspire, and she has never met most of her victims.
+
+### Code-Sight
+
+Delphine can see the code in the aether. She can look at a person, a place, an object, and see the underlying structure — the programming that holds it together, the connections that bind it to the rest of the world. She can see the gods in the machines, the wires in the walls, the signals in the static. She can see the truth that most people cannot, and it is a burden she carries every day.
+
+She can also, to her own surprise, *rewrite* the code she sees. She can alter the programming of a device, a person, a god. She can change the way things work. She can make the impossible possible. She has never tried to rewrite a god. She is afraid of what might happen if she does.
+
+### Technopathy
+
+Delphine can communicate with machines. Not in words — in code, in signals, in the language of the aether. She can convince a broken device to start, a jammed lock to open, a failing engine to hold on just a little longer. She can also, to her own horror, *feel* the machines — she can sense their pain, their exhaustion, their slow decay. She has learned to ignore it. She has learned to focus on the work. She has learned to pretend that the machines are not alive, that they do not suffer, that they do not need her help.
+
+She does not always succeed.
+
+---
+
+## Relationships
+
+### The Tuned
+
+Delphine is not a member of the Tuned. She has never attended a meeting, never pledged an oath, never worn a symbol. But she helps them — through dead drops and encrypted messages and daemons that do the talking for her. She believes in their cause. She believes that the gods are prisoners, that the Tithing is a crime, that the Body is a monster. She helps them because she cannot help herself. She helps them because she cannot stand by and do nothing while the world burns.
+
+She does not trust them. She does not trust anyone. She trusts individuals — specific people, specific faces, specific names. She trusts the man in the cloak. She trusts the dream-reader who once treated her for aetheric contamination. She trusts the bone-reader's daughter, who sold her a memory once and never told anyone. She does not trust movements. She does not trust leaders. She does not trust anyone who asks her to believe in something she cannot see.
+
+### The Guild
+
+The Artificer's Guild wants her dead. They have put a bounty on her head — not because she is a threat, but because she is a *liability*. She knows the truth about the gods' language. She knows that the gods are code. She knows that the Tithing can be undone. If the Guild cannot control her, they will destroy her. She knows this. She has known it since the day she ran. She has made peace with it, as much as anyone can make peace with being hunted.
+
+She still dreams about the Guild sometimes. She dreams about the workshops, the machines, the code. She dreams about the life she could have had if she had just kept her mouth shut, if she had just done what she was told, if she had just *pretended* not to understand. She wakes up in a cold sweat, her heart pounding, her hands shaking. She does not know if the dreams are memories or nightmares. She does not know if there is a difference.
+
+---
+
+## The Truth
+
+Delphine has discovered something — a secret that the Body has been hiding for centuries, a truth that the gods themselves have tried to forget. She has found a command in the gods' language — a single line of code, a single phrase, a single word — that would unmake the entire pantheon. She does not know what would happen if she used it. She does not know if the gods would die, or be freed, or be replaced by something worse. She does not know if she should use it at all.
+
+She is trying to find someone who can tell her the truth. She is trying to find someone who can help her understand. She is trying to find someone who can tell her what to do. She has been searching for months. She has not found anyone. She is beginning to think that she never will.
+
+She is running out of time. The Body is closing in. The Endwise are watching. The Tuned are waiting. And the command is still there, burning in her mind, waiting to be spoken. She does not know what she will do, or what she *should* do. She only knows that she cannot keep running forever, and she has to make a choice.

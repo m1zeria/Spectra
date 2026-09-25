@@ -186,7 +186,7 @@
 
 ### 10. The Body's Surgeon
 
-**Name**: Dr.
+**Name**: Dr. Vespasian Grey
 
 **Occupation**: A senior physician in the Body's medical division, specializing in the "rehabilitation" of individuals deemed Different. He performs the surgeries, the lobotomies, the "corrective procedures" that turn troublesome citizens into compliant workers. He is very good at his job.
 
